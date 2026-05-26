@@ -48,10 +48,10 @@ The dataset includes business sales information such as:
 - Customer ID
 - Discount
 - Payment Method
-- Poduct Details
--  Sales Date
--  Sales Amount
--  Sales Channel
+- Product Details
+- Sales Date
+- Sales Amount
+- Sales Channel
 - Sales Rep
 - Region
 - Unit Cost

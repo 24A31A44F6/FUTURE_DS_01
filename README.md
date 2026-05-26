@@ -88,9 +88,3 @@ Through this project, I gained hands-on experience in **Power BI dashboard creat
 ## ✅ Conclusion
 
 The **Business Sales Analytics Dashboard** successfully transforms raw sales data into meaningful visual insights using **Power BI** and **Excel**. By analyzing sales performance, customer behavior, product trends, and regional growth, the project supports better understanding of business operations and enables informed, data-driven decision-making for improved performance and profitability.
-
-
-
-Example:
-```md
-![Dashboard Screenshot](dashboard-image.png)

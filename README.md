@@ -42,6 +42,27 @@ The objective of this **Business Sales Analytics Dashboard** is to analyze sales
 - **Microsoft Excel** – Data cleaning, preprocessing, and management   
 
 ---
+## ✨ Key Insights
+
+- 🌍 **East Region Generated the Highest Sales**  
+  The **East region** recorded the highest sales amount (**0.14M**), followed by **North (0.12M)**, while the **South region** showed the lowest sales performance (**0.10M**).
+  
+- 👥 **Equal Distribution of Customer Types**  
+  The dashboard shows an equal split between **new customers (50%)** and **returning customers (50%)**, reflecting balanced customer engagement.
+
+- 📈 **Sales Quantity Fluctuates Across Days**  
+  Quantity sold varies significantly over the month, with noticeable sales peaks around the middle of the period, indicating demand fluctuations.
+
+- 🧑‍💼 **Regional Sales Channel Performance**  
+  Sales representatives contribute across multiple regions, with stronger activity visible in **East and North regions**, suggesting higher business concentration.
+
+- 📍 **Regional Market Opportunities**  
+  Since **South and West regions** have comparatively lower sales, they present opportunities for improved marketing and sales strategies.
+
+- 🎯 **Business Performance Monitoring**  
+  The dashboard enables quick tracking of **sales trends, customer behavior, regional performance, and product insights** for better business decision-making.
+
+---
 
 ## 📂 Dataset
 The dataset includes business sales information such as:
